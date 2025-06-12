@@ -1,6 +1,6 @@
-# TiltAlert
+# TiltBuzzer
 
-TiltAlert is an Arduino-based tilt indicator using an ADXL accelerometer, LEDs, and a buzzer. When the device is tilted, an array of LEDs light up and a buzzer alerts the user.
+TiltBuzzer is an Arduino-based tilt indicator using an ADXL accelerometer, LEDs, and a buzzer. When the device is tilted, an array of LEDs light up and a buzzer plays different notes.
 
 ## Components Used:
 - Arduino Uno/Nano
