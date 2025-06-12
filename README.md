@@ -22,4 +22,4 @@ The ADXL sensor detects tilt in X/Y axes. The Arduino processes this and trigger
 _(Add your diagram here as an image)_
 
 ## Code:
-See `tilt_alert.ino` file.
+ https://github.com/byteofishan/TiltBuzzer/blob/main/tilt.ino 
